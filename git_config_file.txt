@@ -1,0 +1,67 @@
+    1  clear
+    2  pwd
+    3  ls
+    4  cd 
+    5  ls
+    6  cd /cmd/
+    7  ls
+    8  cd/
+    9  clear
+   10  pwd
+   11  cd /c
+   12  ls
+   13  clear
+   14  ls
+   15  cd D
+   16  cd /d
+   17  ls
+   18  clear
+   19  ls
+   20  ls
+   21  cd projects/
+   22  ls
+   23  clear
+   24  ls
+   25  git init
+   26  ls
+   27  git status
+   28  clear
+   29  git status
+   30  clear
+   31  git congif --global user.name "Anuj Pandey"
+   32  git config --global user.name "Anuj Pandey"
+   33  git config --global user.email "vky00000@gmail.com"
+   34  git config list
+   35  git --help
+   36  clear
+   37  ssh-keygen -t ed25519 -C "vky00000@gmail.com"
+   38  clip < ~/.ssh/id_ed25519.pub
+   39  ls
+   40  clear
+   41  ls
+   42  cat 'eval "$(ssh-agent -s)"
+   43  clear
+   44  ls
+   45  ls
+   46  clear
+   47  ssh-keygen -t ed25519 -C "vky00000@gmail.com"
+   48  ls
+   49  ls -a
+   50  eval "$(ssh-agent -s)"
+   51  ssh-add ~/.ssh/id_ed25519
+   52  clip < ~/.ssh/id_ed25519.pub
+   53  ls
+   54  ls -a
+   55  clip < ~/.ssh/id_ed25519.pub
+   56  clear
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -m "My first nexux project."
+   61  git status
+   62  git remote add origin git@github.com:anujpandey1998/my_nexsus_projetcs.git
+   63  git push -u origin main
+   64  git push -u origin master
+   65  clear
+   66  history
+   67  history >> git_config_file.txt
