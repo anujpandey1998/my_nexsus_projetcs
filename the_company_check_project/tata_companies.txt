@@ -1,0 +1,30 @@
+CIN: L24239MH1939PLC002893
+Company Name: Tata Chemicals Limited
+Status: Active
+Location: Mumbai, Maharashtra
+Website: tatachemicals.com
+--------------------------------------------------
+CIN: L64200MH1986PLC039266
+Company Name: Tata Communications Limited
+Status: Active
+Location: Mumbai, Maharashtra
+Website: tatacommunications.com
+--------------------------------------------------
+CIN: L22210MH1995PLC084781
+Company Name: Tata Consultancy Services Limited
+Status: Active
+Location: Mumbai, Maharashtra
+Website: tcs.com
+--------------------------------------------------
+CIN: L15491WB1962PLC031425
+Company Name: Tata Consumer Products Limited
+Status: Active
+Location: Kolkata, West Bengal
+Website: tataconsumer.com
+--------------------------------------------------
+CIN: L85110KA1989PLC009968
+Company Name: Tata Elxsi Limited
+Status: Active
+Location: Bangaluru, Karnataka
+Website: tataelxsi.com
+--------------------------------------------------
